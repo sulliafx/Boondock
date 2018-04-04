@@ -14,5 +14,6 @@ pipenv = "==11.9.0"
 pytz = "==2018.3"
 virtualenv = "==15.2.0"
 virtualenv-clone = "==0.3.0"
+gunicorn = "*"
 
 [dev-packages]
