@@ -25,7 +25,7 @@ SECRET_KEY = 'u!3-34_^!u11@n@y-x4^1k*6=uk=60^rfwwg3h$r6cwsqualt8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['boondock.herokuapp.com']
 
 
 # Application definition
